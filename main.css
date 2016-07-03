@@ -1,20 +1,29 @@
-body {  ;
-	background-image: url (images/1.jpeg) ;
+body {
 	background-attachment: fixed;
+	background-color: #BCF5A9;
+	font-family: fantasy ;
+	
 }
-h1 {font-size: 120%; 
+h1 {font-size: 180%;
+	font-weight: normal;
+	font-size: 50;
     font-family: Verdana, Arial, Helvetica, sans-serif; 
     color: #333366;
-}
-h2 {font-size: 100%; 
-    font-family: Verdana, Arial, Helvetica, sans-serif; 
-    color: #58FAAC;
+    }
+h2 {font-size: 140%;
+	font-size: 42 ;
+	font-family: Verdana, Arial, Helvetica, sans-serif; 
+    color:  #333366;
+   
 }
 
-p {
-	color: #0A122A
+p { font-style: italic;
+    font-size: 20 ;
+	color: #0A122A ;
+	;
 }
-cite { font-style: oblique;
+cite {
+	font-style: oblique;
  	font-family: cursive ;
  	color: #3B240B ;
 }	
