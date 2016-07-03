@@ -9,21 +9,33 @@ h1 {font-size: 180%;
 	font-size: 50;
     font-family: Verdana, Arial, Helvetica, sans-serif; 
     color: #333366;
+    position: center;
     }
 h2 {font-size: 140%;
 	font-size: 42 ;
 	font-family: Verdana, Arial, Helvetica, sans-serif; 
     color:  #333366;
+    font-style: normal;
    
 }
+h3 {font-size: 150%;
+	font-weight: normal;
+	font-size: 50;
+    font-family: Verdana, Arial, Helvetica, sans-serif; 
+    color: #333366;
+    position: center;
+    font-style: normal;
 
+}
 p { font-style: italic;
     font-size: 20 ;
 	color: #0A122A ;
-	;
 }
 cite {
 	font-style: oblique;
  	font-family: cursive ;
  	color: #3B240B ;
-}	
+}
+em {font-family: cursive;
+font-style:normal;
+ }
