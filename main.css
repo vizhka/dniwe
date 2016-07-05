@@ -39,3 +39,35 @@ cite {
 em {font-family: cursive;
 font-style:normal;
  }
+.block {
+    display: inline-block;
+    width: 192px;
+    height: 192px;
+    margin: 5px;
+    border-radius: 5px;
+    box-shadow: 1px 1px 3px #999999;
+}
+
+.block1 {
+	background-color:#2ecc71;
+	background-image: url("images/8.png");
+	background-repeat:no-repeat;
+}
+
+.block2 {
+	background-color:#3498db;
+	background-image: url("images/10.png") ;
+	background-repeat:repeat-x;
+}
+
+.block3 {
+	background-color:#e74c3c;
+	background-image: url("images/7.png") ;
+	background-repeat:repeat-y;
+}
+
+.block4 {
+	background-color:#e67e22;
+	background-image: url("images/9.png");
+	background-repeat:repeat;
+}
